@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nat"]
+	path = nat
+	url = https://github.com/natverse/nat
+	shallow = true
+	registered = true
+[submodule "nat.nblast"]
+	path = nat.nblast
+	url = https://github.com/natverse/nat.nblast
+	shallow = true
+	registered = true
+[submodule "nat.templatebrains"]
+	path = nat.templatebrains
+	url = https://github.com/natverse/nat.templatebrains
+	shallow = true
+	registered = true
+[submodule "natcpp"]
+	path = natcpp
+	url = https://github.com/natverse/natcpp
+	shallow = true
+	registered = true

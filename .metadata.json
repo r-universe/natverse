@@ -1,0 +1,18 @@
+[
+  {
+    "package": "nat",
+    "oncran": true
+  },
+  {
+    "package": "nat.nblast",
+    "oncran": true
+  },
+  {
+    "package": "nat.templatebrains",
+    "oncran": true
+  },
+  {
+    "package": "natcpp",
+    "oncran": true
+  }
+]
