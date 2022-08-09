@@ -23,3 +23,8 @@
 	url = https://github.com/natverse/natcpp
 	shallow = true
 	registered = true
+[submodule "natmanager"]
+	path = natmanager
+	url = https://github.com/natverse/natmanager
+	shallow = true
+	registered = true

@@ -14,5 +14,9 @@
   {
     "package": "natcpp",
     "oncran": true
+  },
+  {
+    "package": "natmanager",
+    "oncran": true
   }
 ]
