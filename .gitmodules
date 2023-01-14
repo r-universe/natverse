@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dracor"]
+	path = dracor
+	url = https://github.com/natverse/dracor
+	shallow = true
+	registered = true
 [submodule "nat"]
 	path = nat
 	url = https://github.com/natverse/nat
