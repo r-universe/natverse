@@ -1,5 +1,13 @@
 [
   {
+    "package": "natmanager",
+    "oncran": true
+  },
+  {
+    "package": "nat.nblast",
+    "oncran": true
+  },
+  {
     "package": "dracor",
     "oncran": true
   },
@@ -8,19 +16,11 @@
     "oncran": true
   },
   {
-    "package": "nat.nblast",
-    "oncran": true
-  },
-  {
     "package": "nat.templatebrains",
     "oncran": true
   },
   {
     "package": "natcpp",
-    "oncran": true
-  },
-  {
-    "package": "natmanager",
     "oncran": true
   }
 ]
