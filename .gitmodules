@@ -23,6 +23,11 @@
 	url = https://github.com/natverse/nat.templatebrains
 	shallow = true
 	registered = true
+[submodule "nat.utils"]
+	path = nat.utils
+	url = https://github.com/natverse/nat.utils
+	shallow = true
+	registered = true
 [submodule "natcpp"]
 	path = natcpp
 	url = https://github.com/natverse/natcpp

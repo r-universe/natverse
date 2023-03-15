@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "nat.utils",
+    "oncran": true
+  },
+  {
     "package": "natcpp",
     "oncran": true
   },
